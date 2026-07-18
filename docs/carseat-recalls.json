@@ -1,11 +1,11 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-07-17T08:30:16+00:00",
+ "generatedAt": "2026-07-18T08:11:00+00:00",
  "recalls": [
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -17,7 +17,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -1493,18 +1493,6 @@
   {
    "campaignNumber": "14C004000",
    "brand": "GRACO",
-   "model": "SNUGRIDE",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
-   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
-   "remedy": "Graco will replace the buckle with a new design, free of charge.  The recall began on August 5, 2014.  Owners may contact Graco at 1-877-766-7470 or online at www.gracobucklerecall@gracobaby.com, or at consumerservices@gracobaby.com.      Note: In addition, Graco will conduct a consumer satisfaction campaign to cover infant child restraints manufactured with AmSafe QT3 and Signature buckles.  Under this consumer satisfaction campaign, the company will provide a replacement buckle at no cost to a",
-   "recallDate": "2014-06-30",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C004000"
-  },
-  {
-   "campaignNumber": "14C004000",
-   "brand": "GRACO",
    "model": "SNUGRIDE CLASSIC CONNECT",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -1554,6 +1542,18 @@
    "campaignNumber": "14C004000",
    "brand": "GRACO",
    "model": "SNUGRIDE 30",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
+   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
+   "remedy": "Graco will replace the buckle with a new design, free of charge.  The recall began on August 5, 2014.  Owners may contact Graco at 1-877-766-7470 or online at www.gracobucklerecall@gracobaby.com, or at consumerservices@gracobaby.com.      Note: In addition, Graco will conduct a consumer satisfaction campaign to cover infant child restraints manufactured with AmSafe QT3 and Signature buckles.  Under this consumer satisfaction campaign, the company will provide a replacement buckle at no cost to a",
+   "recallDate": "2014-06-30",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C004000"
+  },
+  {
+   "campaignNumber": "14C004000",
+   "brand": "GRACO",
+   "model": "SNUGRIDE",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
@@ -2681,6 +2681,18 @@
   {
    "campaignNumber": "11C001000",
    "brand": "DJG",
+   "model": "22185",
+   "manufacturedFrom": "2008-05-01",
+   "manufacturedTo": "2009-04-30",
+   "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN INFANT, CONVERTIBLE, AND BOOSTER CHILD RESTRAINT SYSTEMS WHICH WERE SOLD BOTH AS STAND ALONE SEATS OR PART OF A TRAVEL SYSTEM (WITH A STROLLER).   THE HARNESS LOCKING AND RELEASE BUTTON DOES NOT ALWAYS RETURN TO ITS LOCKED POSITION.  A BUTTON THAT IS NOT IN THE LOCKED POSITION CAN ALLOW THE HARNESS ADJUSTMENT STRAP TO SLIP BACK THROUGH THE ADJUSTER AS A CHILD MOVES AROUND IN THE SEAT AND RESULTS IN A LOOSE HARNESS.  CHILD RESTRAINT SYSTEMS INCLUDED",
+   "consequence": "IN THE EVENT OF A VEHICLE CRASH, THE CHILD MAY NOT BE ADEQUATELY PROTECTED AND IS AT AN INCREASED RISK FOR INJURY.",
+   "remedy": "REGISTERED OWNERS WILL RECEIVE A FREE REMEDY KIT CONSISTING OF A SMALL TUBE OF NON-TOXIC, FOOD-GRADE LUBRICANT TO BE APPLIED TO THE CENTER FRONT ADJUSTER (CFA) TO PREVENT STICKING AND ALLOW IT TO PROPERLY ENGAGE THE CFA STRAP.  INSTRUCTION ON HOW TO APPLY THE LUBRICANT WILL BE PROVIDED, ALONG WITH A LABEL TO INDICATE THAT THE REPAIR HAS BEEN COMPLETED.  NON-REGISTERED OWNERS SHOULD CONTACT DJG AT 1-866-623-3139 OR BY EMAIL AT HARNESSADJUSTMENT@DJGUSA.COM.  CONSUMERS WILL NEED THE ENTIRE MODEL NU",
+   "recallDate": "2011-02-10",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=11C001000"
+  },
+  {
+   "campaignNumber": "11C001000",
+   "brand": "DJG",
    "model": "22178",
    "manufacturedFrom": "2008-05-01",
    "manufacturedTo": "2009-04-30",
@@ -2742,18 +2754,6 @@
    "campaignNumber": "11C001000",
    "brand": "DJG",
    "model": "22462",
-   "manufacturedFrom": "2008-05-01",
-   "manufacturedTo": "2009-04-30",
-   "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN INFANT, CONVERTIBLE, AND BOOSTER CHILD RESTRAINT SYSTEMS WHICH WERE SOLD BOTH AS STAND ALONE SEATS OR PART OF A TRAVEL SYSTEM (WITH A STROLLER).   THE HARNESS LOCKING AND RELEASE BUTTON DOES NOT ALWAYS RETURN TO ITS LOCKED POSITION.  A BUTTON THAT IS NOT IN THE LOCKED POSITION CAN ALLOW THE HARNESS ADJUSTMENT STRAP TO SLIP BACK THROUGH THE ADJUSTER AS A CHILD MOVES AROUND IN THE SEAT AND RESULTS IN A LOOSE HARNESS.  CHILD RESTRAINT SYSTEMS INCLUDED",
-   "consequence": "IN THE EVENT OF A VEHICLE CRASH, THE CHILD MAY NOT BE ADEQUATELY PROTECTED AND IS AT AN INCREASED RISK FOR INJURY.",
-   "remedy": "REGISTERED OWNERS WILL RECEIVE A FREE REMEDY KIT CONSISTING OF A SMALL TUBE OF NON-TOXIC, FOOD-GRADE LUBRICANT TO BE APPLIED TO THE CENTER FRONT ADJUSTER (CFA) TO PREVENT STICKING AND ALLOW IT TO PROPERLY ENGAGE THE CFA STRAP.  INSTRUCTION ON HOW TO APPLY THE LUBRICANT WILL BE PROVIDED, ALONG WITH A LABEL TO INDICATE THAT THE REPAIR HAS BEEN COMPLETED.  NON-REGISTERED OWNERS SHOULD CONTACT DJG AT 1-866-623-3139 OR BY EMAIL AT HARNESSADJUSTMENT@DJGUSA.COM.  CONSUMERS WILL NEED THE ENTIRE MODEL NU",
-   "recallDate": "2011-02-10",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=11C001000"
-  },
-  {
-   "campaignNumber": "11C001000",
-   "brand": "DJG",
-   "model": "22185",
    "manufacturedFrom": "2008-05-01",
    "manufacturedTo": "2009-04-30",
    "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN INFANT, CONVERTIBLE, AND BOOSTER CHILD RESTRAINT SYSTEMS WHICH WERE SOLD BOTH AS STAND ALONE SEATS OR PART OF A TRAVEL SYSTEM (WITH A STROLLER).   THE HARNESS LOCKING AND RELEASE BUTTON DOES NOT ALWAYS RETURN TO ITS LOCKED POSITION.  A BUTTON THAT IS NOT IN THE LOCKED POSITION CAN ALLOW THE HARNESS ADJUSTMENT STRAP TO SLIP BACK THROUGH THE ADJUSTER AS A CHILD MOVES AROUND IN THE SEAT AND RESULTS IN A LOOSE HARNESS.  CHILD RESTRAINT SYSTEMS INCLUDED",
