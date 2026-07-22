@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-07-20T09:35:29+00:00",
+ "generatedAt": "2026-07-22T08:46:46+00:00",
  "recalls": [
   {
    "campaignNumber": "26C003000",
@@ -413,31 +413,7 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "LIBELLE TRAVEL SYSTEM",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
-   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
-   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
-   "recallDate": "2025-02-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
-  },
-  {
-   "campaignNumber": "25C002000",
-   "brand": "CYBEX",
-   "model": "BEEZY TRAVEL SYSTEM",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
-   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
-   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
-   "recallDate": "2025-02-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
-  },
-  {
-   "campaignNumber": "25C002000",
-   "brand": "CYBEX",
-   "model": "ATON G",
+   "model": "EOS TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -461,7 +437,31 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "EOS TRAVEL SYSTEM",
+   "model": "ATON G",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
+   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
+   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
+   "recallDate": "2025-02-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
+  },
+  {
+   "campaignNumber": "25C002000",
+   "brand": "CYBEX",
+   "model": "BEEZY TRAVEL SYSTEM",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
+   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
+   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
+   "recallDate": "2025-02-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
+  },
+  {
+   "campaignNumber": "25C002000",
+   "brand": "CYBEX",
+   "model": "LIBELLE TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -1493,18 +1493,6 @@
   {
    "campaignNumber": "14C004000",
    "brand": "GRACO",
-   "model": "SNUGRIDE CLICK CONNECT 40",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
-   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
-   "remedy": "Graco will replace the buckle with a new design, free of charge.  The recall began on August 5, 2014.  Owners may contact Graco at 1-877-766-7470 or online at www.gracobucklerecall@gracobaby.com, or at consumerservices@gracobaby.com.      Note: In addition, Graco will conduct a consumer satisfaction campaign to cover infant child restraints manufactured with AmSafe QT3 and Signature buckles.  Under this consumer satisfaction campaign, the company will provide a replacement buckle at no cost to a",
-   "recallDate": "2014-06-30",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C004000"
-  },
-  {
-   "campaignNumber": "14C004000",
-   "brand": "GRACO",
    "model": "SNUGRIDE CLASSIC CONNECT",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -1530,6 +1518,18 @@
    "campaignNumber": "14C004000",
    "brand": "GRACO",
    "model": "SNUGRIDE 35",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
+   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
+   "remedy": "Graco will replace the buckle with a new design, free of charge.  The recall began on August 5, 2014.  Owners may contact Graco at 1-877-766-7470 or online at www.gracobucklerecall@gracobaby.com, or at consumerservices@gracobaby.com.      Note: In addition, Graco will conduct a consumer satisfaction campaign to cover infant child restraints manufactured with AmSafe QT3 and Signature buckles.  Under this consumer satisfaction campaign, the company will provide a replacement buckle at no cost to a",
+   "recallDate": "2014-06-30",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C004000"
+  },
+  {
+   "campaignNumber": "14C004000",
+   "brand": "GRACO",
+   "model": "SNUGRIDE CLICK CONNECT 40",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
