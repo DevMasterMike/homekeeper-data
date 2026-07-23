@@ -1,7 +1,19 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-07-22T08:46:46+00:00",
+ "generatedAt": "2026-07-23T08:46:22+00:00",
  "recalls": [
+  {
+   "campaignNumber": "26C004000",
+   "brand": "EVENFLO",
+   "model": "REO BY REVOLVE 360",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Reo by Revolve360 child seats in color variants Nantucket, Danvers, Chelsea, Holden, Brookline, and Lenox. Please refer to Evenflo's recall report for the specific models. In certain rear or forward-facing positions, the headrest may shift position during a crash. As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
+   "consequence": "A headrest that shifts unexpectedly may increase the risk of injury in a crash.",
+   "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed August 17, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "recallDate": "2026-07-17",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C004000"
+  },
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
