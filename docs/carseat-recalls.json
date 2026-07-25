@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-07-23T08:46:22+00:00",
+ "generatedAt": "2026-07-25T08:25:56+00:00",
  "recalls": [
   {
    "campaignNumber": "26C004000",
@@ -17,7 +17,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -29,7 +29,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -689,42 +689,6 @@
   {
    "campaignNumber": "22C008000",
    "brand": "JOYBUY",
-   "model": "PORTABLE BABY COVER SEAT",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
-   "consequence": "The child seat may be improperly installed, increasing the risk of injury in a crash.",
-   "remedy": "Joybuy Express will provide a refund to purchasers.  Owner notification letters were mailed February 21, 2023.  Owners may contact Joybuy Express' customer service at 1-302-426-4543 or overseas-service@jd.com.  This recall expands and replaces NHTSA recall number 22C-007.",
-   "recallDate": "2022-12-29",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=22C008000"
-  },
-  {
-   "campaignNumber": "22C008000",
-   "brand": "JOYBUY",
-   "model": "FOLD WATERPROOF CAR SEAT",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
-   "consequence": "The child seat may be improperly installed, increasing the risk of injury in a crash.",
-   "remedy": "Joybuy Express will provide a refund to purchasers.  Owner notification letters were mailed February 21, 2023.  Owners may contact Joybuy Express' customer service at 1-302-426-4543 or overseas-service@jd.com.  This recall expands and replaces NHTSA recall number 22C-007.",
-   "recallDate": "2022-12-29",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=22C008000"
-  },
-  {
-   "campaignNumber": "22C008000",
-   "brand": "JOYBUY",
-   "model": "QCTIME ANTI-SLIP CUSHION",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
-   "consequence": "The child seat may be improperly installed, increasing the risk of injury in a crash.",
-   "remedy": "Joybuy Express will provide a refund to purchasers.  Owner notification letters were mailed February 21, 2023.  Owners may contact Joybuy Express' customer service at 1-302-426-4543 or overseas-service@jd.com.  This recall expands and replaces NHTSA recall number 22C-007.",
-   "recallDate": "2022-12-29",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=22C008000"
-  },
-  {
-   "campaignNumber": "22C008000",
-   "brand": "JOYBUY",
    "model": "TWOWOOD ANTI-SLIP CUSHION",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -846,6 +810,42 @@
    "campaignNumber": "22C008000",
    "brand": "JOYBUY",
    "model": "TWOWOOD RUST-PROOF BOOSTE",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
+   "consequence": "The child seat may be improperly installed, increasing the risk of injury in a crash.",
+   "remedy": "Joybuy Express will provide a refund to purchasers.  Owner notification letters were mailed February 21, 2023.  Owners may contact Joybuy Express' customer service at 1-302-426-4543 or overseas-service@jd.com.  This recall expands and replaces NHTSA recall number 22C-007.",
+   "recallDate": "2022-12-29",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=22C008000"
+  },
+  {
+   "campaignNumber": "22C008000",
+   "brand": "JOYBUY",
+   "model": "PORTABLE BABY COVER SEAT",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
+   "consequence": "The child seat may be improperly installed, increasing the risk of injury in a crash.",
+   "remedy": "Joybuy Express will provide a refund to purchasers.  Owner notification letters were mailed February 21, 2023.  Owners may contact Joybuy Express' customer service at 1-302-426-4543 or overseas-service@jd.com.  This recall expands and replaces NHTSA recall number 22C-007.",
+   "recallDate": "2022-12-29",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=22C008000"
+  },
+  {
+   "campaignNumber": "22C008000",
+   "brand": "JOYBUY",
+   "model": "FOLD WATERPROOF CAR SEAT",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
+   "consequence": "The child seat may be improperly installed, increasing the risk of injury in a crash.",
+   "remedy": "Joybuy Express will provide a refund to purchasers.  Owner notification letters were mailed February 21, 2023.  Owners may contact Joybuy Express' customer service at 1-302-426-4543 or overseas-service@jd.com.  This recall expands and replaces NHTSA recall number 22C-007.",
+   "recallDate": "2022-12-29",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=22C008000"
+  },
+  {
+   "campaignNumber": "22C008000",
+   "brand": "JOYBUY",
+   "model": "QCTIME ANTI-SLIP CUSHION",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
