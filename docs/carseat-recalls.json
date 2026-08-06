@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-08-05T09:08:17+00:00",
+ "generatedAt": "2026-08-06T09:08:13+00:00",
  "recalls": [
   {
    "campaignNumber": "26C004000",
@@ -17,7 +17,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -29,7 +29,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -1613,6 +1613,18 @@
   {
    "campaignNumber": "14C003000",
    "brand": "EVENFLO",
+   "model": "SNUGLI BOOSTER",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain convertible and harnessed child restraints, models Momentum 65 (including LX and DLX), Chase (including LX, DLX, and Select), Maestro (including Performance), Symphony (including 65, LX, 65 E3, and DLX), Snugli All-In-One, Snugli Booster, Titan 65, SureRide DLX, and Secure Kid (including LX, DLX, 100, 300, and 400).  The affected seats have model number prefixes of 306, 308, 310, 329, 345, 346, 371 or 385.  The defect involves difficulty in un",
+   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of an emergency in which a prompt exit from the vehicle is required.",
+   "remedy": "Evenflo notified registered owners in April 2014.  The company will start providing replacement buckles along with installation instructions in April 2014.  Owners may contact Evenflo at 1-800-490-7591 or online at www.buckle.evenflo.com.  Note: For a complete list of the production dates of the affected seats, please click on \"Associated Documents\" and then \"Defect Notice(Part 573).\"  Not all seats within the date ranges listed are included, so consumers should contact Evenflo at the number or ",
+   "recallDate": "2014-04-03",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C003000"
+  },
+  {
+   "campaignNumber": "14C003000",
+   "brand": "EVENFLO",
    "model": "CHASE",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -1674,18 +1686,6 @@
    "campaignNumber": "14C003000",
    "brand": "EVENFLO",
    "model": "SYMPHONY",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain convertible and harnessed child restraints, models Momentum 65 (including LX and DLX), Chase (including LX, DLX, and Select), Maestro (including Performance), Symphony (including 65, LX, 65 E3, and DLX), Snugli All-In-One, Snugli Booster, Titan 65, SureRide DLX, and Secure Kid (including LX, DLX, 100, 300, and 400).  The affected seats have model number prefixes of 306, 308, 310, 329, 345, 346, 371 or 385.  The defect involves difficulty in un",
-   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of an emergency in which a prompt exit from the vehicle is required.",
-   "remedy": "Evenflo notified registered owners in April 2014.  The company will start providing replacement buckles along with installation instructions in April 2014.  Owners may contact Evenflo at 1-800-490-7591 or online at www.buckle.evenflo.com.  Note: For a complete list of the production dates of the affected seats, please click on \"Associated Documents\" and then \"Defect Notice(Part 573).\"  Not all seats within the date ranges listed are included, so consumers should contact Evenflo at the number or ",
-   "recallDate": "2014-04-03",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C003000"
-  },
-  {
-   "campaignNumber": "14C003000",
-   "brand": "EVENFLO",
-   "model": "SNUGLI BOOSTER",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain convertible and harnessed child restraints, models Momentum 65 (including LX and DLX), Chase (including LX, DLX, and Select), Maestro (including Performance), Symphony (including 65, LX, 65 E3, and DLX), Snugli All-In-One, Snugli Booster, Titan 65, SureRide DLX, and Secure Kid (including LX, DLX, 100, 300, and 400).  The affected seats have model number prefixes of 306, 308, 310, 329, 345, 346, 371 or 385.  The defect involves difficulty in un",
