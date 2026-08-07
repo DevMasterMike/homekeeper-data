@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-08-06T09:08:13+00:00",
+ "generatedAt": "2026-08-07T07:44:03+00:00",
  "recalls": [
   {
    "campaignNumber": "26C004000",
@@ -17,7 +17,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -29,7 +29,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -1157,18 +1157,6 @@
   {
    "campaignNumber": "17C002000",
    "brand": "BRITAX",
-   "model": "B-SAFE 35 TRAVEL SYSTEM",
-   "manufacturedFrom": "2015-11-01",
-   "manufacturedTo": "2017-05-31",
-   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain  B-Safe 35, B-Safe 35 Travel Systems, B-Safe 35 Elite, B-Safe 35 Elite Travel Systems and BOB B-Safe rear-facing infant child safety seats, model numbers E1A183F, E1A185M, E1A185P, E1A186R, E1A203F, E1A205M, E1A205P, E1A206X, E1A206Z, E1A207E, E9LU65V, E9LU66X, E9LU66Z, E9LU67D, E9LU67E, EXA185M, S02063600, S02063700, S03803400, S03803500, S03803700, S03803800, S03803900, S04144400, S04144500, S04144600, S04145000, S04402800, S04884200, S04",
-   "consequence": "The broken tab may present a choking hazard to an infant in the car seat, increasing the risk of injury.",
-   "remedy": "Britax will notify owners and will provide a replacement chest clip marked \"PC\", free of charge.  The recall began on June 21, 2017.  Owners may contact Britax at 1-833-474-7016 or visit www.bsafe35clip.com.",
-   "recallDate": "2017-06-15",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=17C002000"
-  },
-  {
-   "campaignNumber": "17C002000",
-   "brand": "BRITAX",
    "model": "B-SAFE 35 ELITE",
    "manufacturedFrom": "2015-11-01",
    "manufacturedTo": "2017-05-31",
@@ -1194,6 +1182,18 @@
    "campaignNumber": "17C002000",
    "brand": "BRITAX",
    "model": "B-SAFE 35",
+   "manufacturedFrom": "2015-11-01",
+   "manufacturedTo": "2017-05-31",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain  B-Safe 35, B-Safe 35 Travel Systems, B-Safe 35 Elite, B-Safe 35 Elite Travel Systems and BOB B-Safe rear-facing infant child safety seats, model numbers E1A183F, E1A185M, E1A185P, E1A186R, E1A203F, E1A205M, E1A205P, E1A206X, E1A206Z, E1A207E, E9LU65V, E9LU66X, E9LU66Z, E9LU67D, E9LU67E, EXA185M, S02063600, S02063700, S03803400, S03803500, S03803700, S03803800, S03803900, S04144400, S04144500, S04144600, S04145000, S04402800, S04884200, S04",
+   "consequence": "The broken tab may present a choking hazard to an infant in the car seat, increasing the risk of injury.",
+   "remedy": "Britax will notify owners and will provide a replacement chest clip marked \"PC\", free of charge.  The recall began on June 21, 2017.  Owners may contact Britax at 1-833-474-7016 or visit www.bsafe35clip.com.",
+   "recallDate": "2017-06-15",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=17C002000"
+  },
+  {
+   "campaignNumber": "17C002000",
+   "brand": "BRITAX",
+   "model": "B-SAFE 35 TRAVEL SYSTEM",
    "manufacturedFrom": "2015-11-01",
    "manufacturedTo": "2017-05-31",
    "defect": "Britax Child Safety, Inc. (Britax) is recalling certain  B-Safe 35, B-Safe 35 Travel Systems, B-Safe 35 Elite, B-Safe 35 Elite Travel Systems and BOB B-Safe rear-facing infant child safety seats, model numbers E1A183F, E1A185M, E1A185P, E1A186R, E1A203F, E1A205M, E1A205P, E1A206X, E1A206Z, E1A207E, E9LU65V, E9LU66X, E9LU66Z, E9LU67D, E9LU67E, EXA185M, S02063600, S02063700, S03803400, S03803500, S03803700, S03803800, S03803900, S04144400, S04144500, S04144600, S04145000, S04402800, S04884200, S04",
@@ -1505,18 +1505,6 @@
   {
    "campaignNumber": "14C004000",
    "brand": "GRACO",
-   "model": "SNUGRIDE",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
-   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
-   "remedy": "Graco will replace the buckle with a new design, free of charge.  The recall began on August 5, 2014.  Owners may contact Graco at 1-877-766-7470 or online at www.gracobucklerecall@gracobaby.com, or at consumerservices@gracobaby.com.      Note: In addition, Graco will conduct a consumer satisfaction campaign to cover infant child restraints manufactured with AmSafe QT3 and Signature buckles.  Under this consumer satisfaction campaign, the company will provide a replacement buckle at no cost to a",
-   "recallDate": "2014-06-30",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C004000"
-  },
-  {
-   "campaignNumber": "14C004000",
-   "brand": "GRACO",
    "model": "SNUGRIDE CLASSIC CONNECT",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -1566,6 +1554,18 @@
    "campaignNumber": "14C004000",
    "brand": "GRACO",
    "model": "SNUGRIDE 30",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
+   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
+   "remedy": "Graco will replace the buckle with a new design, free of charge.  The recall began on August 5, 2014.  Owners may contact Graco at 1-877-766-7470 or online at www.gracobucklerecall@gracobaby.com, or at consumerservices@gracobaby.com.      Note: In addition, Graco will conduct a consumer satisfaction campaign to cover infant child restraints manufactured with AmSafe QT3 and Signature buckles.  Under this consumer satisfaction campaign, the company will provide a replacement buckle at no cost to a",
+   "recallDate": "2014-06-30",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C004000"
+  },
+  {
+   "campaignNumber": "14C004000",
+   "brand": "GRACO",
+   "model": "SNUGRIDE",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
