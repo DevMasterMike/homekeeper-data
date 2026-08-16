@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-08-14T07:52:49+00:00",
+ "generatedAt": "2026-08-16T07:01:16+00:00",
  "recalls": [
   {
    "campaignNumber": "26C005000",
@@ -29,7 +29,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -41,7 +41,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -917,7 +917,7 @@
   {
    "campaignNumber": "21C007000",
    "brand": "CLEK",
-   "model": "LIINGO",
+   "model": "LIING",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Clek, Inc. (Clek) is recalling certain Liing, model LG19U1, and Liingo, model number LGO20U1, infant child seats manufactured before February 22, 2021.  The labels on the seat cover or infant insert may bubble up, allowing the labels to come apart into small pieces.",
@@ -929,7 +929,7 @@
   {
    "campaignNumber": "21C007000",
    "brand": "CLEK",
-   "model": "LIING",
+   "model": "LIINGO",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Clek, Inc. (Clek) is recalling certain Liing, model LG19U1, and Liingo, model number LGO20U1, infant child seats manufactured before February 22, 2021.  The labels on the seat cover or infant insert may bubble up, allowing the labels to come apart into small pieces.",
