@@ -1,7 +1,79 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-08-27T17:40:02+00:00",
+ "generatedAt": "2026-08-28T18:46:05+00:00",
  "recalls": [
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE 35",
+   "manufacturedFrom": "2026-08-20",
+   "manufacturedTo": "2020-11-13",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE ULTRA",
+   "manufacturedFrom": "2020-08-27",
+   "manufacturedTo": "2021-02-04",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "ENDEAVOURS",
+   "manufacturedFrom": "2020-08-24",
+   "manufacturedTo": "2020-12-17",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE GEN 2",
+   "manufacturedFrom": "2021-02-12",
+   "manufacturedTo": "2022-12-14",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE GEN 2 FLEXFIT PLUS",
+   "manufacturedFrom": "2020-12-28",
+   "manufacturedTo": "2023-05-10",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE GEN 2 FLEXFIT",
+   "manufacturedFrom": "2020-12-28",
+   "manufacturedTo": "2023-04-25",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
   {
    "campaignNumber": "26C005000",
    "brand": "EVENFLO",
@@ -917,7 +989,7 @@
   {
    "campaignNumber": "21C007000",
    "brand": "CLEK",
-   "model": "LIING",
+   "model": "LIINGO",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Clek, Inc. (Clek) is recalling certain Liing, model LG19U1, and Liingo, model number LGO20U1, infant child seats manufactured before February 22, 2021.  The labels on the seat cover or infant insert may bubble up, allowing the labels to come apart into small pieces.",
@@ -929,7 +1001,7 @@
   {
    "campaignNumber": "21C007000",
    "brand": "CLEK",
-   "model": "LIINGO",
+   "model": "LIING",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Clek, Inc. (Clek) is recalling certain Liing, model LG19U1, and Liingo, model number LGO20U1, infant child seats manufactured before February 22, 2021.  The labels on the seat cover or infant insert may bubble up, allowing the labels to come apart into small pieces.",
