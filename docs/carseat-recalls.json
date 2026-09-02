@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-01T11:43:00+00:00",
+ "generatedAt": "2026-09-02T11:23:42+00:00",
  "recalls": [
   {
    "campaignNumber": "26C006000",
@@ -161,7 +161,7 @@
   {
    "campaignNumber": "25C010000",
    "brand": "EVENFLO",
-   "model": "GOLD REVOLVE360 SLIM",
+   "model": "REVOLVE360 SLIM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Gold Revolve360 Slim and Revolve360 Slim child seats manufactured between December 1, 2022 and December 8, 2024.  Please refer to Evenflo's recall report for specific model and color information. The headrest foam is not adequately secured away from the child, which can allow the child to pick off pieces of foam.",
@@ -173,7 +173,7 @@
   {
    "campaignNumber": "25C010000",
    "brand": "EVENFLO",
-   "model": "REVOLVE360 SLIM",
+   "model": "GOLD REVOLVE360 SLIM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Gold Revolve360 Slim and Revolve360 Slim child seats manufactured between December 1, 2022 and December 8, 2024.  Please refer to Evenflo's recall report for specific model and color information. The headrest foam is not adequately secured away from the child, which can allow the child to pick off pieces of foam.",
@@ -713,6 +713,18 @@
   {
    "campaignNumber": "23C001000",
    "brand": "CYBEX",
+   "model": "ATON Q",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex models Aton, Aton Q, Aton M, Aton 2, and Cloud Q rear facing infant seats.  Please refer to CTP's recall report for specific model details.  The webbing for the front harness adjustment strap, used to snugly adjust the shoulder harness straps onto the infant, may fray, which can reduce the strength of the front harness adjustment strap.  As such, these infant seats fail to comply with the requirements of Federal Motor Vehicle S",
+   "consequence": "A front harness adjustment strap with insufficient strength may not properly restrain the occupant, increasing the risk of injury in a crash.",
+   "remedy": "CTP/CYBEX will mail owners a replacement front harness adjustment strap assembly and installation instructions, free of charge.  Owner notification letters were mailed April 3, 2023.  Owners may contact CTP's customer service at 1-877-242-5676.",
+   "recallDate": "2023-02-10",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=23C001000"
+  },
+  {
+   "campaignNumber": "23C001000",
+   "brand": "CYBEX",
    "model": "ATON M",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -757,30 +769,6 @@
    "remedy": "CTP/CYBEX will mail owners a replacement front harness adjustment strap assembly and installation instructions, free of charge.  Owner notification letters were mailed April 3, 2023.  Owners may contact CTP's customer service at 1-877-242-5676.",
    "recallDate": "2023-02-10",
    "url": "https://www.nhtsa.gov/recalls?nhtsaId=23C001000"
-  },
-  {
-   "campaignNumber": "23C001000",
-   "brand": "CYBEX",
-   "model": "ATON Q",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex models Aton, Aton Q, Aton M, Aton 2, and Cloud Q rear facing infant seats.  Please refer to CTP's recall report for specific model details.  The webbing for the front harness adjustment strap, used to snugly adjust the shoulder harness straps onto the infant, may fray, which can reduce the strength of the front harness adjustment strap.  As such, these infant seats fail to comply with the requirements of Federal Motor Vehicle S",
-   "consequence": "A front harness adjustment strap with insufficient strength may not properly restrain the occupant, increasing the risk of injury in a crash.",
-   "remedy": "CTP/CYBEX will mail owners a replacement front harness adjustment strap assembly and installation instructions, free of charge.  Owner notification letters were mailed April 3, 2023.  Owners may contact CTP's customer service at 1-877-242-5676.",
-   "recallDate": "2023-02-10",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=23C001000"
-  },
-  {
-   "campaignNumber": "22C008000",
-   "brand": "JOYBUY",
-   "model": "PRETTY COMY CAR SEAT",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
-   "consequence": "The child seat may be improperly installed, increasing the risk of injury in a crash.",
-   "remedy": "Joybuy Express will provide a refund to purchasers.  Owner notification letters were mailed February 21, 2023.  Owners may contact Joybuy Express' customer service at 1-302-426-4543 or overseas-service@jd.com.  This recall expands and replaces NHTSA recall number 22C-007.",
-   "recallDate": "2022-12-29",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=22C008000"
   },
   {
    "campaignNumber": "22C008000",
@@ -906,6 +894,18 @@
    "campaignNumber": "22C008000",
    "brand": "JOYBUY",
    "model": "PRETTY COMY PORTABLE SEAT",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
+   "consequence": "The child seat may be improperly installed, increasing the risk of injury in a crash.",
+   "remedy": "Joybuy Express will provide a refund to purchasers.  Owner notification letters were mailed February 21, 2023.  Owners may contact Joybuy Express' customer service at 1-302-426-4543 or overseas-service@jd.com.  This recall expands and replaces NHTSA recall number 22C-007.",
+   "recallDate": "2022-12-29",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=22C008000"
+  },
+  {
+   "campaignNumber": "22C008000",
+   "brand": "JOYBUY",
+   "model": "PRETTY COMY CAR SEAT",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "JD E-Commerce America Limited (Joybuy Express) is recalling all Marainbow Portable Infant Safe Seat and materially similar child seats.  Please refer to Joybuy Express' affected products attachment for specific child seat model details.  The installation labels display incorrect instructions.  The child seat's design also prohibits it from being installed properly.  As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restrai",
