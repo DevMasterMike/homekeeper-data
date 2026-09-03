@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-02T11:23:42+00:00",
+ "generatedAt": "2026-09-03T11:19:53+00:00",
  "recalls": [
   {
    "campaignNumber": "26C006000",
@@ -82,7 +82,7 @@
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Revolve180 Litemax NXT child seats manufactured through March 31, 2025. Please refer to Evenflo's recall report for the specific models and production dates. Due to a miscalibrated level indicator, following the installation instructions can result in a child sitting more upright than intended. As such, these child seats fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
    "consequence": "A child seat that is not reclined as intended increases the risk of injury in a crash.",
-   "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed beginning September 1, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed beginning September 1, 2026. Additional letters will be sent once the remedy is available, anticipated November 2026. Owners may contact Evenflo customer service at 1-800-233-5921.",
    "recallDate": "2026-08-06",
    "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C005000"
   },
@@ -161,7 +161,7 @@
   {
    "campaignNumber": "25C010000",
    "brand": "EVENFLO",
-   "model": "REVOLVE360 SLIM",
+   "model": "GOLD REVOLVE360 SLIM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Gold Revolve360 Slim and Revolve360 Slim child seats manufactured between December 1, 2022 and December 8, 2024.  Please refer to Evenflo's recall report for specific model and color information. The headrest foam is not adequately secured away from the child, which can allow the child to pick off pieces of foam.",
@@ -173,7 +173,7 @@
   {
    "campaignNumber": "25C010000",
    "brand": "EVENFLO",
-   "model": "GOLD REVOLVE360 SLIM",
+   "model": "REVOLVE360 SLIM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Gold Revolve360 Slim and Revolve360 Slim child seats manufactured between December 1, 2022 and December 8, 2024.  Please refer to Evenflo's recall report for specific model and color information. The headrest foam is not adequately secured away from the child, which can allow the child to pick off pieces of foam.",
@@ -713,18 +713,6 @@
   {
    "campaignNumber": "23C001000",
    "brand": "CYBEX",
-   "model": "ATON Q",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex models Aton, Aton Q, Aton M, Aton 2, and Cloud Q rear facing infant seats.  Please refer to CTP's recall report for specific model details.  The webbing for the front harness adjustment strap, used to snugly adjust the shoulder harness straps onto the infant, may fray, which can reduce the strength of the front harness adjustment strap.  As such, these infant seats fail to comply with the requirements of Federal Motor Vehicle S",
-   "consequence": "A front harness adjustment strap with insufficient strength may not properly restrain the occupant, increasing the risk of injury in a crash.",
-   "remedy": "CTP/CYBEX will mail owners a replacement front harness adjustment strap assembly and installation instructions, free of charge.  Owner notification letters were mailed April 3, 2023.  Owners may contact CTP's customer service at 1-877-242-5676.",
-   "recallDate": "2023-02-10",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=23C001000"
-  },
-  {
-   "campaignNumber": "23C001000",
-   "brand": "CYBEX",
    "model": "ATON M",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -762,6 +750,18 @@
    "campaignNumber": "23C001000",
    "brand": "CYBEX",
    "model": "ATON",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex models Aton, Aton Q, Aton M, Aton 2, and Cloud Q rear facing infant seats.  Please refer to CTP's recall report for specific model details.  The webbing for the front harness adjustment strap, used to snugly adjust the shoulder harness straps onto the infant, may fray, which can reduce the strength of the front harness adjustment strap.  As such, these infant seats fail to comply with the requirements of Federal Motor Vehicle S",
+   "consequence": "A front harness adjustment strap with insufficient strength may not properly restrain the occupant, increasing the risk of injury in a crash.",
+   "remedy": "CTP/CYBEX will mail owners a replacement front harness adjustment strap assembly and installation instructions, free of charge.  Owner notification letters were mailed April 3, 2023.  Owners may contact CTP's customer service at 1-877-242-5676.",
+   "recallDate": "2023-02-10",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=23C001000"
+  },
+  {
+   "campaignNumber": "23C001000",
+   "brand": "CYBEX",
+   "model": "ATON Q",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex models Aton, Aton Q, Aton M, Aton 2, and Cloud Q rear facing infant seats.  Please refer to CTP's recall report for specific model details.  The webbing for the front harness adjustment strap, used to snugly adjust the shoulder harness straps onto the infant, may fray, which can reduce the strength of the front harness adjustment strap.  As such, these infant seats fail to comply with the requirements of Federal Motor Vehicle S",
