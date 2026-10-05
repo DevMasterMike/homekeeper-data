@@ -1,19 +1,7 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-04T12:26:47+00:00",
+ "generatedAt": "2026-10-05T14:47:55+00:00",
  "recalls": [
-  {
-   "campaignNumber": "26C006000",
-   "brand": "BRITAX",
-   "model": "ENDEAVOURS",
-   "manufacturedFrom": "2020-08-24",
-   "manufacturedTo": "2020-12-17",
-   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
-   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
-   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
-   "recallDate": "2026-08-20",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
-  },
   {
    "campaignNumber": "26C006000",
    "brand": "BRITAX",
@@ -44,6 +32,18 @@
    "model": "B-SAFE GEN 2",
    "manufacturedFrom": "2021-02-12",
    "manufacturedTo": "2022-12-14",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "ENDEAVOURS",
+   "manufacturedFrom": "2020-08-24",
+   "manufacturedTo": "2020-12-17",
    "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
    "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
    "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
@@ -101,7 +101,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -113,7 +113,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -509,30 +509,6 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "ATON G SWIVEL",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
-   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
-   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
-   "recallDate": "2025-02-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
-  },
-  {
-   "campaignNumber": "25C002000",
-   "brand": "CYBEX",
-   "model": "EOS TRAVEL SYSTEM",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
-   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
-   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
-   "recallDate": "2025-02-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
-  },
-  {
-   "campaignNumber": "25C002000",
-   "brand": "CYBEX",
    "model": "LIBELLE TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -558,6 +534,30 @@
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
    "model": "ATON G",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
+   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
+   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
+   "recallDate": "2025-02-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
+  },
+  {
+   "campaignNumber": "25C002000",
+   "brand": "CYBEX",
+   "model": "ATON G SWIVEL",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
+   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
+   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
+   "recallDate": "2025-02-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
+  },
+  {
+   "campaignNumber": "25C002000",
+   "brand": "CYBEX",
+   "model": "EOS TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
