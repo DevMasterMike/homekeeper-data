@@ -1,13 +1,25 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-05T14:47:55+00:00",
+ "generatedAt": "2026-10-06T13:22:31+00:00",
  "recalls": [
   {
    "campaignNumber": "26C006000",
    "brand": "BRITAX",
-   "model": "B-SAFE GEN 2 FLEXFIT",
-   "manufacturedFrom": "2020-12-28",
-   "manufacturedTo": "2023-04-25",
+   "model": "B-SAFE 35",
+   "manufacturedFrom": "2026-08-20",
+   "manufacturedTo": "2020-11-13",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE ULTRA",
+   "manufacturedFrom": "2020-08-27",
+   "manufacturedTo": "2021-02-04",
    "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
    "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
    "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
@@ -53,21 +65,9 @@
   {
    "campaignNumber": "26C006000",
    "brand": "BRITAX",
-   "model": "B-SAFE ULTRA",
-   "manufacturedFrom": "2020-08-27",
-   "manufacturedTo": "2021-02-04",
-   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
-   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
-   "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
-   "recallDate": "2026-08-20",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
-  },
-  {
-   "campaignNumber": "26C006000",
-   "brand": "BRITAX",
-   "model": "B-SAFE 35",
-   "manufacturedFrom": "2026-08-20",
-   "manufacturedTo": "2020-11-13",
+   "model": "B-SAFE GEN 2 FLEXFIT",
+   "manufacturedFrom": "2020-12-28",
+   "manufacturedTo": "2023-04-25",
    "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
    "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
    "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
@@ -101,7 +101,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -113,7 +113,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -2081,7 +2081,7 @@
   {
    "campaignNumber": "12C002000",
    "brand": "DJG",
-   "model": "IC123FSM (COMFY CARRY)",
+   "model": "IC124FSM (ONBOARD 35)",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "DOREL JUVENILE GROUP  (DJG) IS RECALLING CERTAIN INFANT CHILD RESTRAINTS, MODELS IC124FSM (ONBOARD 35) AND IC123FSM (COMFY CARRY), PRODUCED FROM MAY 2011 THROUGH APRIL 2012, WERE SOLD WITHOUT THE SEPARATE SEAT BASE THAT CONTAINS THE REQUIRED LATCH ATTACHMENT ASSEMBLY.  WITHOUT THE LATCH ASSEMBLY, THESE UNITS FAIL TO CONFORM TO THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 213, \"CHILD RESTRAINT SYSTEMS.\"",
@@ -2093,7 +2093,7 @@
   {
    "campaignNumber": "12C002000",
    "brand": "DJG",
-   "model": "IC124FSM (ONBOARD 35)",
+   "model": "IC123FSM (COMFY CARRY)",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "DOREL JUVENILE GROUP  (DJG) IS RECALLING CERTAIN INFANT CHILD RESTRAINTS, MODELS IC124FSM (ONBOARD 35) AND IC123FSM (COMFY CARRY), PRODUCED FROM MAY 2011 THROUGH APRIL 2012, WERE SOLD WITHOUT THE SEPARATE SEAT BASE THAT CONTAINS THE REQUIRED LATCH ATTACHMENT ASSEMBLY.  WITHOUT THE LATCH ASSEMBLY, THESE UNITS FAIL TO CONFORM TO THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 213, \"CHILD RESTRAINT SYSTEMS.\"",
