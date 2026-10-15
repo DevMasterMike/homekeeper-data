@@ -1,19 +1,7 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-14T11:58:52+00:00",
+ "generatedAt": "2026-10-15T11:35:31+00:00",
  "recalls": [
-  {
-   "campaignNumber": "26C006000",
-   "brand": "BRITAX",
-   "model": "B-SAFE GEN 2",
-   "manufacturedFrom": "2021-02-12",
-   "manufacturedTo": "2022-12-14",
-   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
-   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
-   "remedy": "The remedy is currently under development. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
-   "recallDate": "2026-08-20",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
-  },
   {
    "campaignNumber": "26C006000",
    "brand": "BRITAX",
@@ -32,6 +20,18 @@
    "model": "B-SAFE GEN 2 FLEXFIT PLUS",
    "manufacturedFrom": "2020-12-28",
    "manufacturedTo": "2023-05-10",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE GEN 2",
+   "manufacturedFrom": "2021-02-12",
+   "manufacturedTo": "2022-12-14",
    "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
    "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
    "remedy": "The remedy is currently under development. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
@@ -137,7 +137,7 @@
   {
    "campaignNumber": "25C010000",
    "brand": "EVENFLO",
-   "model": "GOLD REVOLVE360 SLIM",
+   "model": "REVOLVE360 SLIM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Gold Revolve360 Slim and Revolve360 Slim child seats manufactured between December 1, 2022 and December 8, 2024.  Please refer to Evenflo's recall report for specific model and color information. The headrest foam is not adequately secured away from the child, which can allow the child to pick off pieces of foam.",
@@ -149,7 +149,7 @@
   {
    "campaignNumber": "25C010000",
    "brand": "EVENFLO",
-   "model": "REVOLVE360 SLIM",
+   "model": "GOLD REVOLVE360 SLIM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Gold Revolve360 Slim and Revolve360 Slim child seats manufactured between December 1, 2022 and December 8, 2024.  Please refer to Evenflo's recall report for specific model and color information. The headrest foam is not adequately secured away from the child, which can allow the child to pick off pieces of foam.",
