@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-15T11:35:31+00:00",
+ "generatedAt": "2026-10-16T11:29:54+00:00",
  "recalls": [
   {
    "campaignNumber": "26C006000",
@@ -77,7 +77,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -89,7 +89,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -137,7 +137,7 @@
   {
    "campaignNumber": "25C010000",
    "brand": "EVENFLO",
-   "model": "REVOLVE360 SLIM",
+   "model": "GOLD REVOLVE360 SLIM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Gold Revolve360 Slim and Revolve360 Slim child seats manufactured between December 1, 2022 and December 8, 2024.  Please refer to Evenflo's recall report for specific model and color information. The headrest foam is not adequately secured away from the child, which can allow the child to pick off pieces of foam.",
@@ -149,7 +149,7 @@
   {
    "campaignNumber": "25C010000",
    "brand": "EVENFLO",
-   "model": "GOLD REVOLVE360 SLIM",
+   "model": "REVOLVE360 SLIM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain Gold Revolve360 Slim and Revolve360 Slim child seats manufactured between December 1, 2022 and December 8, 2024.  Please refer to Evenflo's recall report for specific model and color information. The headrest foam is not adequately secured away from the child, which can allow the child to pick off pieces of foam.",
@@ -1565,18 +1565,6 @@
   {
    "campaignNumber": "14C004000",
    "brand": "GRACO",
-   "model": "SNUGRIDE",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
-   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
-   "remedy": "Graco will replace the buckle with a new design, free of charge.  The recall began on August 5, 2014.  Owners may contact Graco at 1-877-766-7470 or online at www.gracobucklerecall@gracobaby.com, or at consumerservices@gracobaby.com.      Note: In addition, Graco will conduct a consumer satisfaction campaign to cover infant child restraints manufactured with AmSafe QT3 and Signature buckles.  Under this consumer satisfaction campaign, the company will provide a replacement buckle at no cost to a",
-   "recallDate": "2014-06-30",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C004000"
-  },
-  {
-   "campaignNumber": "14C004000",
-   "brand": "GRACO",
    "model": "SNUGRIDE CLASSIC CONNECT",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -1626,6 +1614,18 @@
    "campaignNumber": "14C004000",
    "brand": "GRACO",
    "model": "SNUGRIDE 30",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
+   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
+   "remedy": "Graco will replace the buckle with a new design, free of charge.  The recall began on August 5, 2014.  Owners may contact Graco at 1-877-766-7470 or online at www.gracobucklerecall@gracobaby.com, or at consumerservices@gracobaby.com.      Note: In addition, Graco will conduct a consumer satisfaction campaign to cover infant child restraints manufactured with AmSafe QT3 and Signature buckles.  Under this consumer satisfaction campaign, the company will provide a replacement buckle at no cost to a",
+   "recallDate": "2014-06-30",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C004000"
+  },
+  {
+   "campaignNumber": "14C004000",
+   "brand": "GRACO",
+   "model": "SNUGRIDE",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Graco Children's Products (Graco) is recalling certain rear-facing child restraints manufactured between July 2010 and May 2013, models SnugRide, SnugRide Classic Connect (including Classic Connect 30 and 35), SnugRide 30, SnugRide 35, SnugRide Click Connect 40, and Aprica A30.  The defect involves difficulty in unlatching the harness buckle.  In some cases, the buckle becomes stuck in a latched condition so that it cannot be opened by depressing the buckle's release button.",
