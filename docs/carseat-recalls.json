@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-26T13:10:36+00:00",
+ "generatedAt": "2026-10-27T12:18:46+00:00",
  "recalls": [
   {
    "campaignNumber": "26C006000",
@@ -29,18 +29,6 @@
   {
    "campaignNumber": "26C006000",
    "brand": "BRITAX",
-   "model": "B-SAFE GEN 2 FLEXFIT PLUS",
-   "manufacturedFrom": "2020-12-28",
-   "manufacturedTo": "2023-05-10",
-   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
-   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
-   "remedy": "The remedy is currently under development. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
-   "recallDate": "2026-08-20",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
-  },
-  {
-   "campaignNumber": "26C006000",
-   "brand": "BRITAX",
    "model": "ENDEAVOURS",
    "manufacturedFrom": "2020-08-24",
    "manufacturedTo": "2020-12-17",
@@ -56,6 +44,18 @@
    "model": "B-SAFE GEN 2",
    "manufacturedFrom": "2021-02-12",
    "manufacturedTo": "2022-12-14",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "The remedy is currently under development. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE GEN 2 FLEXFIT PLUS",
+   "manufacturedFrom": "2020-12-28",
+   "manufacturedTo": "2023-05-10",
    "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
    "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
    "remedy": "The remedy is currently under development. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
@@ -197,7 +197,79 @@
   {
    "campaignNumber": "25C003000",
    "brand": "EVENFLO",
+   "model": "FOLIO3 TRAVEL SYSTEM",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
+   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
+   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "recallDate": "2025-03-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
+  },
+  {
+   "campaignNumber": "25C003000",
+   "brand": "EVENFLO",
+   "model": "OMNI PLUS TRAVEL SYSTEM",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
+   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
+   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "recallDate": "2025-03-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
+  },
+  {
+   "campaignNumber": "25C003000",
+   "brand": "EVENFLO",
+   "model": "PIVOT TRAVEL SYSTEM",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
+   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
+   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "recallDate": "2025-03-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
+  },
+  {
+   "campaignNumber": "25C003000",
+   "brand": "EVENFLO",
+   "model": "GOLD SHYFT TRAVEL SYSTEM",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
+   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
+   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "recallDate": "2025-03-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
+  },
+  {
+   "campaignNumber": "25C003000",
+   "brand": "EVENFLO",
+   "model": "GOLD PIVOT EXPD TRAVELSYS",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
+   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
+   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "recallDate": "2025-03-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
+  },
+  {
+   "campaignNumber": "25C003000",
+   "brand": "EVENFLO",
    "model": "TRIBUTE",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
+   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
+   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "recallDate": "2025-03-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
+  },
+  {
+   "campaignNumber": "25C003000",
+   "brand": "EVENFLO",
+   "model": "MAESTRO",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -363,78 +435,6 @@
    "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
   },
   {
-   "campaignNumber": "25C003000",
-   "brand": "EVENFLO",
-   "model": "MAESTRO",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
-   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
-   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
-   "recallDate": "2025-03-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
-  },
-  {
-   "campaignNumber": "25C003000",
-   "brand": "EVENFLO",
-   "model": "FOLIO3 TRAVEL SYSTEM",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
-   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
-   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
-   "recallDate": "2025-03-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
-  },
-  {
-   "campaignNumber": "25C003000",
-   "brand": "EVENFLO",
-   "model": "OMNI PLUS TRAVEL SYSTEM",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
-   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
-   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
-   "recallDate": "2025-03-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
-  },
-  {
-   "campaignNumber": "25C003000",
-   "brand": "EVENFLO",
-   "model": "PIVOT TRAVEL SYSTEM",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
-   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
-   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
-   "recallDate": "2025-03-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
-  },
-  {
-   "campaignNumber": "25C003000",
-   "brand": "EVENFLO",
-   "model": "GOLD SHYFT TRAVEL SYSTEM",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
-   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
-   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
-   "recallDate": "2025-03-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
-  },
-  {
-   "campaignNumber": "25C003000",
-   "brand": "EVENFLO",
-   "model": "GOLD PIVOT EXPD TRAVELSYS",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
-   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
-   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
-   "recallDate": "2025-03-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
-  },
-  {
    "campaignNumber": "25C004000",
    "brand": "SAFETY 1ST",
    "model": "BOOST & GO",
@@ -485,7 +485,7 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "LIBELLE TRAVEL SYSTEM",
+   "model": "ATON G SWIVEL",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -497,7 +497,7 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "BEEZY TRAVEL SYSTEM",
+   "model": "EOS TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -521,7 +521,7 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "ATON G SWIVEL",
+   "model": "BEEZY TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -533,7 +533,7 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "EOS TRAVEL SYSTEM",
+   "model": "LIBELLE TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -2273,6 +2273,18 @@
   {
    "campaignNumber": "11C001000",
    "brand": "DJG",
+   "model": "22149",
+   "manufacturedFrom": "2008-05-01",
+   "manufacturedTo": "2009-04-30",
+   "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN INFANT, CONVERTIBLE, AND BOOSTER CHILD RESTRAINT SYSTEMS WHICH WERE SOLD BOTH AS STAND ALONE SEATS OR PART OF A TRAVEL SYSTEM (WITH A STROLLER).   THE HARNESS LOCKING AND RELEASE BUTTON DOES NOT ALWAYS RETURN TO ITS LOCKED POSITION.  A BUTTON THAT IS NOT IN THE LOCKED POSITION CAN ALLOW THE HARNESS ADJUSTMENT STRAP TO SLIP BACK THROUGH THE ADJUSTER AS A CHILD MOVES AROUND IN THE SEAT AND RESULTS IN A LOOSE HARNESS.  CHILD RESTRAINT SYSTEMS INCLUDED",
+   "consequence": "IN THE EVENT OF A VEHICLE CRASH, THE CHILD MAY NOT BE ADEQUATELY PROTECTED AND IS AT AN INCREASED RISK FOR INJURY.",
+   "remedy": "REGISTERED OWNERS WILL RECEIVE A FREE REMEDY KIT CONSISTING OF A SMALL TUBE OF NON-TOXIC, FOOD-GRADE LUBRICANT TO BE APPLIED TO THE CENTER FRONT ADJUSTER (CFA) TO PREVENT STICKING AND ALLOW IT TO PROPERLY ENGAGE THE CFA STRAP.  INSTRUCTION ON HOW TO APPLY THE LUBRICANT WILL BE PROVIDED, ALONG WITH A LABEL TO INDICATE THAT THE REPAIR HAS BEEN COMPLETED.  NON-REGISTERED OWNERS SHOULD CONTACT DJG AT 1-866-623-3139 OR BY EMAIL AT HARNESSADJUSTMENT@DJGUSA.COM.  CONSUMERS WILL NEED THE ENTIRE MODEL NU",
+   "recallDate": "2011-02-10",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=11C001000"
+  },
+  {
+   "campaignNumber": "11C001000",
+   "brand": "DJG",
    "model": "22150",
    "manufacturedFrom": "2008-05-01",
    "manufacturedTo": "2009-04-30",
@@ -2814,18 +2826,6 @@
    "campaignNumber": "11C001000",
    "brand": "DJG",
    "model": "22462",
-   "manufacturedFrom": "2008-05-01",
-   "manufacturedTo": "2009-04-30",
-   "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN INFANT, CONVERTIBLE, AND BOOSTER CHILD RESTRAINT SYSTEMS WHICH WERE SOLD BOTH AS STAND ALONE SEATS OR PART OF A TRAVEL SYSTEM (WITH A STROLLER).   THE HARNESS LOCKING AND RELEASE BUTTON DOES NOT ALWAYS RETURN TO ITS LOCKED POSITION.  A BUTTON THAT IS NOT IN THE LOCKED POSITION CAN ALLOW THE HARNESS ADJUSTMENT STRAP TO SLIP BACK THROUGH THE ADJUSTER AS A CHILD MOVES AROUND IN THE SEAT AND RESULTS IN A LOOSE HARNESS.  CHILD RESTRAINT SYSTEMS INCLUDED",
-   "consequence": "IN THE EVENT OF A VEHICLE CRASH, THE CHILD MAY NOT BE ADEQUATELY PROTECTED AND IS AT AN INCREASED RISK FOR INJURY.",
-   "remedy": "REGISTERED OWNERS WILL RECEIVE A FREE REMEDY KIT CONSISTING OF A SMALL TUBE OF NON-TOXIC, FOOD-GRADE LUBRICANT TO BE APPLIED TO THE CENTER FRONT ADJUSTER (CFA) TO PREVENT STICKING AND ALLOW IT TO PROPERLY ENGAGE THE CFA STRAP.  INSTRUCTION ON HOW TO APPLY THE LUBRICANT WILL BE PROVIDED, ALONG WITH A LABEL TO INDICATE THAT THE REPAIR HAS BEEN COMPLETED.  NON-REGISTERED OWNERS SHOULD CONTACT DJG AT 1-866-623-3139 OR BY EMAIL AT HARNESSADJUSTMENT@DJGUSA.COM.  CONSUMERS WILL NEED THE ENTIRE MODEL NU",
-   "recallDate": "2011-02-10",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=11C001000"
-  },
-  {
-   "campaignNumber": "11C001000",
-   "brand": "DJG",
-   "model": "22149",
    "manufacturedFrom": "2008-05-01",
    "manufacturedTo": "2009-04-30",
    "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN INFANT, CONVERTIBLE, AND BOOSTER CHILD RESTRAINT SYSTEMS WHICH WERE SOLD BOTH AS STAND ALONE SEATS OR PART OF A TRAVEL SYSTEM (WITH A STROLLER).   THE HARNESS LOCKING AND RELEASE BUTTON DOES NOT ALWAYS RETURN TO ITS LOCKED POSITION.  A BUTTON THAT IS NOT IN THE LOCKED POSITION CAN ALLOW THE HARNESS ADJUSTMENT STRAP TO SLIP BACK THROUGH THE ADJUSTER AS A CHILD MOVES AROUND IN THE SEAT AND RESULTS IN A LOOSE HARNESS.  CHILD RESTRAINT SYSTEMS INCLUDED",
