@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-28T13:01:08+00:00",
+ "generatedAt": "2026-10-30T13:01:21+00:00",
  "recalls": [
   {
    "campaignNumber": "26C006000",
@@ -197,18 +197,6 @@
   {
    "campaignNumber": "25C003000",
    "brand": "EVENFLO",
-   "model": "MAESTRO",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
-   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
-   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
-   "recallDate": "2025-03-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
-  },
-  {
-   "campaignNumber": "25C003000",
-   "brand": "EVENFLO",
    "model": "FOLIO3 TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -270,6 +258,18 @@
    "campaignNumber": "25C003000",
    "brand": "EVENFLO",
    "model": "TRIBUTE",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
+   "consequence": "A missing recall registration card may result in an unregistered child seat, which can delay recall notification and increase the risk of injury.",
+   "remedy": "Evenflo will mail owners a recall registration card, free of charge.  Owner notification letters were mailed May 13, 2025.  Owners may contact Evenflo customer service at 1-800-233-5921.",
+   "recallDate": "2025-03-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C003000"
+  },
+  {
+   "campaignNumber": "25C003000",
+   "brand": "EVENFLO",
+   "model": "MAESTRO",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -485,31 +485,7 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "EOS TRAVEL SYSTEM",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
-   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
-   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
-   "recallDate": "2025-02-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
-  },
-  {
-   "campaignNumber": "25C002000",
-   "brand": "CYBEX",
-   "model": "ATON G SWIVEL",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
-   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
-   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
-   "recallDate": "2025-02-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
-  },
-  {
-   "campaignNumber": "25C002000",
-   "brand": "CYBEX",
-   "model": "ATON G",
+   "model": "LIBELLE TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -533,7 +509,31 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "LIBELLE TRAVEL SYSTEM",
+   "model": "ATON G",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
+   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
+   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
+   "recallDate": "2025-02-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
+  },
+  {
+   "campaignNumber": "25C002000",
+   "brand": "CYBEX",
+   "model": "ATON G SWIVEL",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
+   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
+   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
+   "recallDate": "2025-02-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
+  },
+  {
+   "campaignNumber": "25C002000",
+   "brand": "CYBEX",
+   "model": "EOS TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -989,7 +989,7 @@
   {
    "campaignNumber": "21C006000",
    "brand": "CLEK",
-   "model": "LIING",
+   "model": "LIINGO",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Clek, Inc. (Clek) is recalling certain Liing, model number LG19U1, and Liingo, model number LGO20U1, infant child seats manufactured before September 15, 2020.  A small plastic portion of the child seat canopy support may break and detach from the seat.",
@@ -1001,7 +1001,7 @@
   {
    "campaignNumber": "21C006000",
    "brand": "CLEK",
-   "model": "LIINGO",
+   "model": "LIING",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Clek, Inc. (Clek) is recalling certain Liing, model number LG19U1, and Liingo, model number LGO20U1, infant child seats manufactured before September 15, 2020.  A small plastic portion of the child seat canopy support may break and detach from the seat.",
@@ -2525,18 +2525,6 @@
   {
    "campaignNumber": "11C001000",
    "brand": "DJG",
-   "model": "22486",
-   "manufacturedFrom": "2008-05-01",
-   "manufacturedTo": "2009-04-30",
-   "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN INFANT, CONVERTIBLE, AND BOOSTER CHILD RESTRAINT SYSTEMS WHICH WERE SOLD BOTH AS STAND ALONE SEATS OR PART OF A TRAVEL SYSTEM (WITH A STROLLER).   THE HARNESS LOCKING AND RELEASE BUTTON DOES NOT ALWAYS RETURN TO ITS LOCKED POSITION.  A BUTTON THAT IS NOT IN THE LOCKED POSITION CAN ALLOW THE HARNESS ADJUSTMENT STRAP TO SLIP BACK THROUGH THE ADJUSTER AS A CHILD MOVES AROUND IN THE SEAT AND RESULTS IN A LOOSE HARNESS.  CHILD RESTRAINT SYSTEMS INCLUDED",
-   "consequence": "IN THE EVENT OF A VEHICLE CRASH, THE CHILD MAY NOT BE ADEQUATELY PROTECTED AND IS AT AN INCREASED RISK FOR INJURY.",
-   "remedy": "REGISTERED OWNERS WILL RECEIVE A FREE REMEDY KIT CONSISTING OF A SMALL TUBE OF NON-TOXIC, FOOD-GRADE LUBRICANT TO BE APPLIED TO THE CENTER FRONT ADJUSTER (CFA) TO PREVENT STICKING AND ALLOW IT TO PROPERLY ENGAGE THE CFA STRAP.  INSTRUCTION ON HOW TO APPLY THE LUBRICANT WILL BE PROVIDED, ALONG WITH A LABEL TO INDICATE THAT THE REPAIR HAS BEEN COMPLETED.  NON-REGISTERED OWNERS SHOULD CONTACT DJG AT 1-866-623-3139 OR BY EMAIL AT HARNESSADJUSTMENT@DJGUSA.COM.  CONSUMERS WILL NEED THE ENTIRE MODEL NU",
-   "recallDate": "2011-02-10",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=11C001000"
-  },
-  {
-   "campaignNumber": "11C001000",
-   "brand": "DJG",
    "model": "22155",
    "manufacturedFrom": "2008-05-01",
    "manufacturedTo": "2009-04-30",
@@ -2835,6 +2823,18 @@
    "url": "https://www.nhtsa.gov/recalls?nhtsaId=11C001000"
   },
   {
+   "campaignNumber": "11C001000",
+   "brand": "DJG",
+   "model": "22486",
+   "manufacturedFrom": "2008-05-01",
+   "manufacturedTo": "2009-04-30",
+   "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN INFANT, CONVERTIBLE, AND BOOSTER CHILD RESTRAINT SYSTEMS WHICH WERE SOLD BOTH AS STAND ALONE SEATS OR PART OF A TRAVEL SYSTEM (WITH A STROLLER).   THE HARNESS LOCKING AND RELEASE BUTTON DOES NOT ALWAYS RETURN TO ITS LOCKED POSITION.  A BUTTON THAT IS NOT IN THE LOCKED POSITION CAN ALLOW THE HARNESS ADJUSTMENT STRAP TO SLIP BACK THROUGH THE ADJUSTER AS A CHILD MOVES AROUND IN THE SEAT AND RESULTS IN A LOOSE HARNESS.  CHILD RESTRAINT SYSTEMS INCLUDED",
+   "consequence": "IN THE EVENT OF A VEHICLE CRASH, THE CHILD MAY NOT BE ADEQUATELY PROTECTED AND IS AT AN INCREASED RISK FOR INJURY.",
+   "remedy": "REGISTERED OWNERS WILL RECEIVE A FREE REMEDY KIT CONSISTING OF A SMALL TUBE OF NON-TOXIC, FOOD-GRADE LUBRICANT TO BE APPLIED TO THE CENTER FRONT ADJUSTER (CFA) TO PREVENT STICKING AND ALLOW IT TO PROPERLY ENGAGE THE CFA STRAP.  INSTRUCTION ON HOW TO APPLY THE LUBRICANT WILL BE PROVIDED, ALONG WITH A LABEL TO INDICATE THAT THE REPAIR HAS BEEN COMPLETED.  NON-REGISTERED OWNERS SHOULD CONTACT DJG AT 1-866-623-3139 OR BY EMAIL AT HARNESSADJUSTMENT@DJGUSA.COM.  CONSUMERS WILL NEED THE ENTIRE MODEL NU",
+   "recallDate": "2011-02-10",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=11C001000"
+  },
+  {
    "campaignNumber": "10C006000",
    "brand": "BRITAX",
    "model": "CHAPERONE 9L69P5 COWMOO",
@@ -2909,7 +2909,7 @@
   {
    "campaignNumber": "10C001000",
    "brand": "MAXI-COSI",
-   "model": "22-371 ORE",
+   "model": "22-371 JUC",
    "manufacturedFrom": "2008-02-18",
    "manufacturedTo": "2008-06-28",
    "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN MAXI-COSI MICO INFANT CHILD RESTRAINT SYSTEMS, MODELS 22-371 HFL, JUC, LMD, PNG, AND ORE; 22-372 TTH; AND MAXI-COSI MICO INFANT CHILD RESTRAINT SYSTEM - BASE ONLY, MODEL 22-515 BLK, PRODUCED FROM FEBRUARY 18, 2008 THROUGH JUNE 28, 2008.  INTERFERENCE BETWEEN THE MOUNTING BRACKET AND THE BASE CAUSED BY WARPING OF THE BASE OR INADEQUATE MATING BETWEEN THE SHELL AND THE BASE MOUNTING BRACKET CAN RESULT IN DIFFICULTY ATTACHING OR DETACHING THE SHELL FR",
@@ -2921,7 +2921,7 @@
   {
    "campaignNumber": "10C001000",
    "brand": "MAXI-COSI",
-   "model": "22-371 JUC",
+   "model": "22-371 ORE",
    "manufacturedFrom": "2008-02-18",
    "manufacturedTo": "2008-06-28",
    "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN MAXI-COSI MICO INFANT CHILD RESTRAINT SYSTEMS, MODELS 22-371 HFL, JUC, LMD, PNG, AND ORE; 22-372 TTH; AND MAXI-COSI MICO INFANT CHILD RESTRAINT SYSTEM - BASE ONLY, MODEL 22-515 BLK, PRODUCED FROM FEBRUARY 18, 2008 THROUGH JUNE 28, 2008.  INTERFERENCE BETWEEN THE MOUNTING BRACKET AND THE BASE CAUSED BY WARPING OF THE BASE OR INADEQUATE MATING BETWEEN THE SHELL AND THE BASE MOUNTING BRACKET CAN RESULT IN DIFFICULTY ATTACHING OR DETACHING THE SHELL FR",
