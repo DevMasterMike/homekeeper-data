@@ -1,49 +1,13 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-09T16:28:49+00:00",
+ "generatedAt": "2026-11-10T14:57:27+00:00",
  "recalls": [
-  {
-   "campaignNumber": "26C006000",
-   "brand": "BRITAX",
-   "model": "B-SAFE GEN 2",
-   "manufacturedFrom": "2021-02-12",
-   "manufacturedTo": "2022-12-14",
-   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
-   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
-   "remedy": "Britax will mail owners retention clips with installation instructions, free of charge. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
-   "recallDate": "2026-08-20",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
-  },
   {
    "campaignNumber": "26C006000",
    "brand": "BRITAX",
    "model": "B-SAFE GEN 2 FLEXFIT",
    "manufacturedFrom": "2020-12-28",
    "manufacturedTo": "2023-04-25",
-   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
-   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
-   "remedy": "Britax will mail owners retention clips with installation instructions, free of charge. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
-   "recallDate": "2026-08-20",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
-  },
-  {
-   "campaignNumber": "26C006000",
-   "brand": "BRITAX",
-   "model": "ENDEAVOURS",
-   "manufacturedFrom": "2020-08-24",
-   "manufacturedTo": "2020-12-17",
-   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
-   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
-   "remedy": "Britax will mail owners retention clips with installation instructions, free of charge. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
-   "recallDate": "2026-08-20",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
-  },
-  {
-   "campaignNumber": "26C006000",
-   "brand": "BRITAX",
-   "model": "B-SAFE 35",
-   "manufacturedFrom": "2026-08-20",
-   "manufacturedTo": "2020-11-13",
    "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
    "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
    "remedy": "Britax will mail owners retention clips with installation instructions, free of charge. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
@@ -65,6 +29,30 @@
   {
    "campaignNumber": "26C006000",
    "brand": "BRITAX",
+   "model": "B-SAFE GEN 2",
+   "manufacturedFrom": "2021-02-12",
+   "manufacturedTo": "2022-12-14",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "Britax will mail owners retention clips with installation instructions, free of charge. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "ENDEAVOURS",
+   "manufacturedFrom": "2020-08-24",
+   "manufacturedTo": "2020-12-17",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "Britax will mail owners retention clips with installation instructions, free of charge. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
    "model": "B-SAFE ULTRA",
    "manufacturedFrom": "2020-08-27",
    "manufacturedTo": "2021-02-04",
@@ -75,9 +63,21 @@
    "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
   },
   {
+   "campaignNumber": "26C006000",
+   "brand": "BRITAX",
+   "model": "B-SAFE 35",
+   "manufacturedFrom": "2026-08-20",
+   "manufacturedTo": "2020-11-13",
+   "defect": "Britax Child Safety, Inc. (Britax) is recalling certain B-Safe Gen 2, B-Safe Gen 2 Flexfit, B-Safe Gen 2 Flexfit Plus, B-Safe 35,  B-Safe Ultra, and Endeavours child seats. Please refer to Britax's recall report for the specific models. A screw in the child seat carrying handle may come loose, causing the handle to partially detach.",
+   "consequence": "A child may fall after a partial detachment, increasing the risk of injury.",
+   "remedy": "Britax will mail owners retention clips with installation instructions, free of charge. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
+   "recallDate": "2026-08-20",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+  },
+  {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
+   "model": "SNUGRIDE TURN & SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -89,7 +89,7 @@
   {
    "campaignNumber": "26C003000",
    "brand": "GRACO",
-   "model": "SNUGRIDE TURN & SLIDE",
+   "model": "MODES NEST TRAVEL SYSTEM W/SNUGRIDE TURN&SLIDE",
    "manufacturedFrom": "2025-12-01",
    "manufacturedTo": "2026-03-27",
    "defect": "Graco Children's Products Inc. (Graco) is recalling certain SnugRide Turn & Slide and Modes Nest Travel Systems with Snugride Turn & Slide infant child seats. Please refer to Graco's recall report for specific model information. The infant seat carrier may detach from the base in a crash. As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -269,7 +269,7 @@
   {
    "campaignNumber": "25C003000",
    "brand": "EVENFLO",
-   "model": "PIVOT EXPND TRAVEL SYSTEM",
+   "model": "MAESTRO",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -281,7 +281,7 @@
   {
    "campaignNumber": "25C003000",
    "brand": "EVENFLO",
-   "model": "MAESTRO",
+   "model": "PIVOT EXPND TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Evenflo Company, Inc. (Evenflo) is recalling certain child seats and travel systems.  Please refer to Evenflo's recall report for specific model numbers.  The child seats and travel systems are missing the USA recall registration card.  As such, these child seats and travel systems fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 213, \"Child Restraint Systems.\"",
@@ -497,18 +497,6 @@
   {
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
-   "model": "ATON G SWIVEL",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
-   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
-   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
-   "recallDate": "2025-02-14",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
-  },
-  {
-   "campaignNumber": "25C002000",
-   "brand": "CYBEX",
    "model": "BEEZY TRAVEL SYSTEM",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -522,6 +510,18 @@
    "campaignNumber": "25C002000",
    "brand": "CYBEX",
    "model": "ATON G",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
+   "consequence": "A detached harness will not properly restrain a child, increasing the risk of injury.",
+   "remedy": "CTP will mail owners a remedy kit and installation instructions, free of charge.  Owner notification letters were mailed beginning March 17, 2025.  Owners may contact CTP customer service at 877-242-5676.",
+   "recallDate": "2025-02-14",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C002000"
+  },
+  {
+   "campaignNumber": "25C002000",
+   "brand": "CYBEX",
+   "model": "ATON G SWIVEL",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Columbus Trading-Partners USA, Inc. (CTP) is recalling certain Cybex Aton G, Aton G SensorSafe, Aton G Swivel, Aton G Swivel SensorSafe, Eos and Aton G Swivel Travel System, Eos and Aton G Travel System, Libelle and Aton G Travel System, and Beezy and Aton G Travel System child seats.  The harness hip anchorage retention hooks may bend, causing the anchor pin to loosen, and the harness strap to detach.",
@@ -989,7 +989,7 @@
   {
    "campaignNumber": "21C006000",
    "brand": "CLEK",
-   "model": "LIINGO",
+   "model": "LIING",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Clek, Inc. (Clek) is recalling certain Liing, model number LG19U1, and Liingo, model number LGO20U1, infant child seats manufactured before September 15, 2020.  A small plastic portion of the child seat canopy support may break and detach from the seat.",
@@ -1001,7 +1001,7 @@
   {
    "campaignNumber": "21C006000",
    "brand": "CLEK",
-   "model": "LIING",
+   "model": "LIINGO",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "Clek, Inc. (Clek) is recalling certain Liing, model number LG19U1, and Liingo, model number LGO20U1, infant child seats manufactured before September 15, 2020.  A small plastic portion of the child seat canopy support may break and detach from the seat.",
@@ -1769,42 +1769,6 @@
   {
    "campaignNumber": "14C001000",
    "brand": "GRACO",
-   "model": "NAUTILUS 3-IN-1",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
-   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
-   "remedy": "Graco is offering to replace the buckle with a new design, free of charge.  the recall began on February 14, 2014.  Owners wil be offered the free replacement buckle.  All other owners may contact Graco at 1-800-345-4109 (toll-free) or 1-330-869-7225, or online at www.consumerservices@gracobaby.com.",
-   "recallDate": "2014-02-10",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C001000"
-  },
-  {
-   "campaignNumber": "14C001000",
-   "brand": "GRACO",
-   "model": "NAUTILUS PLUS",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
-   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
-   "remedy": "Graco is offering to replace the buckle with a new design, free of charge.  the recall began on February 14, 2014.  Owners wil be offered the free replacement buckle.  All other owners may contact Graco at 1-800-345-4109 (toll-free) or 1-330-869-7225, or online at www.consumerservices@gracobaby.com.",
-   "recallDate": "2014-02-10",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C001000"
-  },
-  {
-   "campaignNumber": "14C001000",
-   "brand": "GRACO",
-   "model": "SMART SEAT W/SAFETY SURRO",
-   "manufacturedFrom": null,
-   "manufacturedTo": null,
-   "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
-   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
-   "remedy": "Graco is offering to replace the buckle with a new design, free of charge.  the recall began on February 14, 2014.  Owners wil be offered the free replacement buckle.  All other owners may contact Graco at 1-800-345-4109 (toll-free) or 1-330-869-7225, or online at www.consumerservices@gracobaby.com.",
-   "recallDate": "2014-02-10",
-   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C001000"
-  },
-  {
-   "campaignNumber": "14C001000",
-   "brand": "GRACO",
    "model": "NAUTILUS ELITE",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -1877,6 +1841,42 @@
   {
    "campaignNumber": "14C001000",
    "brand": "GRACO",
+   "model": "STEP 2",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
+   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
+   "remedy": "Graco is offering to replace the buckle with a new design, free of charge.  the recall began on February 14, 2014.  Owners wil be offered the free replacement buckle.  All other owners may contact Graco at 1-800-345-4109 (toll-free) or 1-330-869-7225, or online at www.consumerservices@gracobaby.com.",
+   "recallDate": "2014-02-10",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C001000"
+  },
+  {
+   "campaignNumber": "14C001000",
+   "brand": "GRACO",
+   "model": "MY SIZE 70",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
+   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
+   "remedy": "Graco is offering to replace the buckle with a new design, free of charge.  the recall began on February 14, 2014.  Owners wil be offered the free replacement buckle.  All other owners may contact Graco at 1-800-345-4109 (toll-free) or 1-330-869-7225, or online at www.consumerservices@gracobaby.com.",
+   "recallDate": "2014-02-10",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C001000"
+  },
+  {
+   "campaignNumber": "14C001000",
+   "brand": "GRACO",
+   "model": "SIZE 4 ME 70",
+   "manufacturedFrom": null,
+   "manufacturedTo": null,
+   "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
+   "consequence": "It may be difficult to remove the child from the restraint, increasing the risk of injury in the event of a vehicle crash, fire, or other emergency, in which a prompt exit from the vehicle is required.",
+   "remedy": "Graco is offering to replace the buckle with a new design, free of charge.  the recall began on February 14, 2014.  Owners wil be offered the free replacement buckle.  All other owners may contact Graco at 1-800-345-4109 (toll-free) or 1-330-869-7225, or online at www.consumerservices@gracobaby.com.",
+   "recallDate": "2014-02-10",
+   "url": "https://www.nhtsa.gov/recalls?nhtsaId=14C001000"
+  },
+  {
+   "campaignNumber": "14C001000",
+   "brand": "GRACO",
    "model": "COMFORT SPORT BOOSTER",
    "manufacturedFrom": null,
    "manufacturedTo": null,
@@ -1913,7 +1913,7 @@
   {
    "campaignNumber": "14C001000",
    "brand": "GRACO",
-   "model": "STEP 2",
+   "model": "NAUTILUS 3-IN-1",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
@@ -1925,7 +1925,7 @@
   {
    "campaignNumber": "14C001000",
    "brand": "GRACO",
-   "model": "MY SIZE 70",
+   "model": "NAUTILUS PLUS",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
@@ -1937,7 +1937,7 @@
   {
    "campaignNumber": "14C001000",
    "brand": "GRACO",
-   "model": "SIZE 4 ME 70",
+   "model": "SMART SEAT W/SAFETY SURRO",
    "manufacturedFrom": null,
    "manufacturedTo": null,
    "defect": "On February 7, 2014, Graco Children's Products, Inc. (Graco) informed NHTSA that it would be recalling model year 2009 through 2013 toddler and booster child restraints, models Cozy Cline, Comfort Sport, Classic Ride 50, My Ride 65, My Ride w/Safety Surround, My Ride 70, Size 4 Me 70, Smart Seat, Nautilus, Nautilus Elite, and Argos 70. On March 7, 2014, Graco informed NHTSA it would be including an additional 403,222 seats in this recall, including certain model year 2006 through 2014 Argos 70 E",
@@ -2909,7 +2909,7 @@
   {
    "campaignNumber": "10C001000",
    "brand": "MAXI-COSI",
-   "model": "22-371 JUC",
+   "model": "22-371 ORE",
    "manufacturedFrom": "2008-02-18",
    "manufacturedTo": "2008-06-28",
    "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN MAXI-COSI MICO INFANT CHILD RESTRAINT SYSTEMS, MODELS 22-371 HFL, JUC, LMD, PNG, AND ORE; 22-372 TTH; AND MAXI-COSI MICO INFANT CHILD RESTRAINT SYSTEM - BASE ONLY, MODEL 22-515 BLK, PRODUCED FROM FEBRUARY 18, 2008 THROUGH JUNE 28, 2008.  INTERFERENCE BETWEEN THE MOUNTING BRACKET AND THE BASE CAUSED BY WARPING OF THE BASE OR INADEQUATE MATING BETWEEN THE SHELL AND THE BASE MOUNTING BRACKET CAN RESULT IN DIFFICULTY ATTACHING OR DETACHING THE SHELL FR",
@@ -2921,7 +2921,7 @@
   {
    "campaignNumber": "10C001000",
    "brand": "MAXI-COSI",
-   "model": "22-371 ORE",
+   "model": "22-371 JUC",
    "manufacturedFrom": "2008-02-18",
    "manufacturedTo": "2008-06-28",
    "defect": "DOREL JUVENILE GROUP (DJG) IS RECALLING CERTAIN MAXI-COSI MICO INFANT CHILD RESTRAINT SYSTEMS, MODELS 22-371 HFL, JUC, LMD, PNG, AND ORE; 22-372 TTH; AND MAXI-COSI MICO INFANT CHILD RESTRAINT SYSTEM - BASE ONLY, MODEL 22-515 BLK, PRODUCED FROM FEBRUARY 18, 2008 THROUGH JUNE 28, 2008.  INTERFERENCE BETWEEN THE MOUNTING BRACKET AND THE BASE CAUSED BY WARPING OF THE BASE OR INADEQUATE MATING BETWEEN THE SHELL AND THE BASE MOUNTING BRACKET CAN RESULT IN DIFFICULTY ATTACHING OR DETACHING THE SHELL FR",
